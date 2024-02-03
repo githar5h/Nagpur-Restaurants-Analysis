@@ -20,7 +20,7 @@ Taste of Biryani,North Indian,2.7,200,Loha Pul,"Loha Pul, Biryani","Shree Ganesh
 Krishnum Restaurant,Multi-cuisine,3.9,200,Mominpura,CA road,"CA ROAD, CENTRAL AVENUE , GANDHIBAGH",FALSE,0
 Barbeque Nation,Multi-cuisine,3.9,600,Sitabuldi,"Amravati Rd, Eternity Mall","2nd Floor Eternity Mall, Amravati Rd, Variety Square, Sitabuldi, Nagpur, Maharashtra 440012",FALSE,0
 Calcutta Roll Center,Fast Food,3.8,250,Chhaoni,Sadar,"Achraj Tower, Katol Road, Sadar, Nagpur",FALSE,0
-UBQ by Barbeque Nation,Multi-cuisine,3.9,300,Sitabuldi,NAGPUR,"Unit - K1 to FC- 6, 2nd floor, eternity mall, verity chowk, nagpur-440024",FALSE,0
+UBQ by Barbeque Nation,Multi-cuisine,3.9,300,Sitabuldi,Sitabuldi,"Unit - K1 to FC- 6, 2nd floor, eternity mall, verity chowk, nagpur-440024",FALSE,0
 Sangam Restaurant,Multi-cuisine,4.2,400,Medical Square,medical square,"Medical Square, Near IO Petrol Pump.",FALSE,0
 Taste Of Indore,North Indian,4,70,Sitabuldi,Sitabuldi,"Mahajan Market Road, Sitabuldi, Nagpur",TRUE,0
 Corridor Seven Coffee Roasters,Multi-cuisine,4.5,500,Sitabuldi,Sitabuldi,"86, Mahajan Market, Behind Ketkar Hospital, Sitabuldi, Nagpur 440012, District - Nagpur-1, STATE - Maharashtra -  440012",FALSE,0
@@ -49,7 +49,7 @@ Kwality Walls Frozen Dessert and Ice Cream Shop,Desserts,4.7,300,Ganeshpeth Colo
 Mom's Maggy mania,Fast Food,4,180,Sitabuldi,Sitabuldi,"527, Sitabuldi, Nagpur, Maharashtra 440012, India",FALSE,0
 Shabana Bakery,Bakery,4,250,Byramji Town,Byramji Town,"36, Koradi Rd, Byramji Town, Nagpur",FALSE,0
 TDS Restro Lounge,Multi-cuisine,3.7,1200,Sitabuldi,Sitabuldi,"12, Farmland, Milestone Building, 5th floor, Shop No. 16, Ramdaspeth, Wardha Road, Nagpur, District - Nagpur-1, STATE - Maharashtra",FALSE,0
-Fuel Station Cafe & Restro,Fast Food,3.9,250,Ramdaspeth,Shankar Nagar Square,"Kamlakar Palace, Opposite NIT Garden, Shankar Nagar Square, Nagpur",FALSE,0
+Fuel Station Cafe & Restro,Fast Food,3.9,250,Ramdaspeth,Dharampeth,"Kamlakar Palace, Opposite NIT Garden, Shankar Nagar Square, Nagpur",FALSE,0
 SardaarJi,North Indian,4.1,300,Sitabuldi,Sitabuldi,"Shop no. 14-19, Pushpakunj Commercial Complex, Near Center Point Hotel, Central Bazar Road, Ramdaspeth, Nagpur 440010",FALSE,0
 Dinshaw's Icecream - Tatabaugh,Desserts,4.4,300,Gandhibagh,"Gandhibagh, Tatabagh","HOUSE NO. 6/A, NEAR TATA PARSI HIGH SCHOOL, OPP. SHUKRAWARI TALAV, NAGPUR",TRUE,0
 Pizzaland,Pizza,4,300,Sitabuldi,Sitabuldi,"Amarjyoti Complex, Chitale Marg, Lokmat Square, Ramdaspeth, Nagpur, Maharashtra 440012, India",TRUE,0
@@ -131,7 +131,7 @@ NEW SINGHS  BARBECUE AND CURRY,Multi-cuisine,2.7,500,Nandanvan,Nandanvan,PLOT NO
 Ravi's Food,Multi-cuisine,4.1,450,Sadar,Sadar,"VCA Ground, Shop No.28, Sadar, Nagpur",FALSE,0
 Faasos - Wraps & Rolls,Fast Food,4,200,Sadar,"Azad Chowk, Near Gandhi Chowk","Faasos, Plot No. 227 1, Azad Chowk, Near Gandhi Chowk, Opp Kachara Ghar, Sadar, Nagpur, 440001",FALSE,0
 Oven Story Pizza,Pizza,3.6,400,Sadar,"Azad Chowk, Near Gandhi Chowk","Faasos, Plot No. 227 1, Azad Chowk, Near Gandhi Chowk, Opp Kachara Ghar, Sadar, Nagpur, 440001",FALSE,0
-Amir Punjabi Restaurant by Khana Khazana,Multi-cuisine,3.9,300,CA Road,Gandhibagh,"1192, JAGNATH ROAD, CENTRAL AVENUE, BHAWSAR SQUARE, NAGPUR,  Nagpur1, Maharashtra-440002",TRUE,0
+Amir Punjabi Restaurant by Khana Khazana,Multi-cuisine,3.9,300,C A Road,Gandhibagh,"1192, JAGNATH ROAD, CENTRAL AVENUE, BHAWSAR SQUARE, NAGPUR,  Nagpur1, Maharashtra-440002",TRUE,0
 Babbu Plaza Restaurant,Biryani,3.7,250,Sadar,"Sadar,Anjuman Complex","Anjuman Complex, Sadar, Nagpur",FALSE,0
 Culcatta Rolls Chinese Center,Fast Food,2.5,200,Dharampeth,Dharampeth,"Traffic Park Dharampeth Nagpur,sity ground, Nagpur",FALSE,0
 New Singhs Grills & Chinese,Multi-cuisine,2.6,400,Nandanvan,Nandanvan,PLOT NO 4 HANUMAN NAGAR MEDICAL ROAD NAGPUR ZONE NO 5 HANUMANNAGAR NAGPUR URBAN NAGPUR 1 MAHARASHTRA-440009,FALSE,0
@@ -201,18 +201,17 @@ Mirchi Masala Saoji,Maharashtrian,3.4,200,Ramdaspeth,Bajaj Nagar,"C/o Sujal Saoj
 The Food Smugglers,Multi-cuisine,3.2,200,Ramdaspeth,"Kachipura Chowk, Smuggler","Central Bazar Road, Kachipura Chowk, Nagpur",FALSE,0
 Sardar Ji Ki Rasoi,North Indian,3.9,300,Ramdaspeth,Ramdaspeth,"Central Bazaar Road, Shankar Nagar, Ramdaspeth, Nagpur",FALSE,0
 MS CHAAP CORNER,Fast Food,4.3,250,Nandanvan,Nandanvan,"MS CHAAP CORNER, New Nandanvan Layout, Nandanvan, Nagpur, Maharashtra, India",TRUE,0
-Dosa Plaza,South Indian,3.6,200,Ravi nagar,Dharampeth,"UNIT NO. 1&2, THAKUR APARTMENT, AMRAVATI ROAD, NAGPUR, District - Nagpur-1, STATE - Maharashtra,440010",TRUE,0
-NIC Natural Ice Creams,Desserts,4.5,120,Nagpur,Achraj Towers Katol Road,"Shop No. G-301, Achraj Towers Katol Road, Chindwada Rd, Sadar, Nagpur, Maharashtra 440013",TRUE,0
+Dosa Plaza,South Indian,3.6,200,Ravi Nagar,Dharampeth,"UNIT NO. 1&2, THAKUR APARTMENT, AMRAVATI ROAD, NAGPUR, District - Nagpur-1, STATE - Maharashtra,440010",TRUE,0
 Biryani Bazar By Kilo,Biryani,4.4,200,Dharampeth,Dharampeth,"Flat no 102, Satyam Apartment Canal road, Gokulpeth, Nagpur, Nagpur urban, Nagpur-1 (Maharashtra)",FALSE,0
 Open House,Chinese,3.9,400,Bajaj Nagar,Bajaj Nagar,"63, Bajaj Nagar, Nagpur",TRUE,0
 Khandeshi Tadka,Maharashtrian,3.6,200,Gokulpeth,Dharampeth,"PLOT NO. 137, NEAR WALMIKI NAGAR, SHANKAR NAGAR NAGPUR",TRUE,0
 Maharashtrian Aaswad,Maharashtrian,3.1,200,Gokulpeth,Dharampeth,"Plot No. 137, Near Walmiki Nagar, Shankar Nagar Nagpur",TRUE,0
 Venom's Tomando Cafe,Fast Food,3.9,300,Nandanvan,Nandanvan,"Old Bagdganj, Gangabai Ghat Road, Nagpur -440008",FALSE,0
-Bouffage Cafe & Bistro,Multi-cuisine,3.9,500,Shankar Nagar Square,Dharampeth,"Wockhart HospitL Lane, Near L.A.D College, Shankar Nagar , Dharampeth, Nagpur",FALSE,0
+Bouffage Cafe & Bistro,Multi-cuisine,3.9,500,Dharampeth,Dharampeth,"Wockhart HospitL Lane, Near L.A.D College, Shankar Nagar , Dharampeth, Nagpur",FALSE,0
 Pappe-Da Restaurant,North Indian,4.2,400,Nandanvan,Gandhibagh,"Opposite Tulsi Building, Lakadganj, Nagpur,Nandanvan,Nagpur",FALSE,0
 Bombay Kulfi,Desserts,4.3,150,Dharampeth,Dharampeth,"285, Buty Plot, Hanuman Mandir Rd, Beside Gokul Vrindavan, Dharampeth, Nagpur",TRUE,0
 Shrikhandwala,Desserts,4.8,200,Pratap Nagar,Pratap Nagar,"Vitthal Rukhmini Complex, Upper Floor, Laxmi Nagar Main Road, Opp. Ginger Garlic Restaurant, Nagpur - 440022",TRUE,0
-The Chocolate Room,Multi-cuisine,3.9,300,Ravi nagar,Dharampeth,"PLOT NO.4-A,GURUSHANKAR APARTMENT,TILAK NAGAR,AMRAVATI ROAD,NAGPUR, District - Nagpur-1, STATE - Maharashtra",FALSE,0
+The Chocolate Room,Multi-cuisine,3.9,300,Ravi Nagar,Dharampeth,"PLOT NO.4-A,GURUSHANKAR APARTMENT,TILAK NAGAR,AMRAVATI ROAD,NAGPUR, District - Nagpur-1, STATE - Maharashtra",FALSE,0
 Chaat Shaala,Fast Food,3.8,200,Ravi Nagar,Ravinagar,"Shop no 1,thakur apartment,tilak nagar square,amravati rd",TRUE,0
 Variety Foods,Multi-cuisine,4.1,200,Vivekanand Nagar,"W High Court Road, Surendra Nagar","Plot Number 37, Devashish Apartment, W High Court Road, Surendra Nagar, Vivekanand Nagar, Nagpur",TRUE,0
 Ajit Bakery- Ajni Square,Bakery,4.4,250,Ajni,Wardha road,"4,Divadkar Complex,Wardha Road",FALSE,0
@@ -239,18 +238,17 @@ Le Coquet,Bakery,3.5,300,Dharampeth,Dharampeth,"Shop G5, Indu Yash Complex, Ceme
 Kareems,Multi-cuisine,4,300,Byramji Town,Sadar,"Ground Floor, Aman Lifestyle Nelson Square, Rajnagar, Sadar, Nagpur",FALSE,0
 Buland Darbar,Multi-cuisine,4,200,Bajaj Nagar,Bajaj Nagar,"Plot 178, Near Basketball Ground, Bajaj Nagar, Nagpur, Maharashtra 440010, India",FALSE,0
 Pintu Saoji Restaurant,Maharashtrian,3.6,400,Mahal,Wardhaman Nagar,"C.A. Road,Telephone Exchange Square, Juni Mangalwadi, Jaisao Wadi,Lakadganj, Nagpur",FALSE,0
-UFO Fries & Corn,Fast Food,4.1,280,Bajaj Nagar,Nagpur,PLOT NO 43 GROUND FLOOR SHOP BAJAJ NAGAR NEAR VNIT NAGPUR NAGPUR CITY MAHARASHTRA ZONE NO 1 LAXMINAGAR NAGPUR URBAN NAGPUR 1 MAHARASHTRA,TRUE,0
+UFO Fries & Corn,Fast Food,4.1,280,Bajaj Nagar,Bajaj Nagar,PLOT NO 43 GROUND FLOOR SHOP BAJAJ NAGAR NEAR VNIT NAGPUR NAGPUR CITY MAHARASHTRA ZONE NO 1 LAXMINAGAR NAGPUR URBAN NAGPUR 1 MAHARASHTRA,TRUE,0
 Aaicha Swayampak Maharashtrian Restaurant,Maharashtrian,4,350,Wardha Road,Chatrapati Nagar,"4, Akshat Apartments, Chhatrapati Nagar, Doctors Colony, Nagpur",TRUE,0
 Hot Sandwiches,Fast Food,2.9,350,Mahal,Wardhaman Nagar,"Plot no 370,Garoba Maidan,Chhapru Nagar,Thakre Rickshaw Garage",TRUE,0
 The Pancake Story,Bakery,4.5,300,Bajaj Nagar,Bajaj Nagar,"84 & 85, Pathak House, Abhyankar Nagar, Bajaj Nagar, Nagpur",FALSE,0
-We Feed More,North Indian,4.3,200,LAXMI NAGAR,Dharampeth,275 Anant Kamal Complex Laxmi Nagar Nagpur 440022,FALSE,0
-Grameen Kulfi,Desserts,4.6,120,Chindwada,Achraj Towers Katol Road,"Shop No. G-301, Achraj Towers Katol Road, Chindwada Rd, Sadar, Nagpur, Maharashtra 440013",TRUE,0
+We Feed More,North Indian,4.3,200,Laxminagar,Dharampeth,275 Anant Kamal Complex Laxmi Nagar Nagpur 440022,FALSE,0
 Venu Corner,Multi-cuisine,3.7,250,Rameshwari,Ayodhya Nagar,"Manewada Road, Bhoyar Layout, Ulhas Nagar, Rameshwari, Nagpur",FALSE,0
 Food Mohalla,Multi-cuisine,3,300,Bajaj Nagar,Bajaj Nagar,"Plot no.8, Abhinav Sankul, Abhyankar Nagar Road, Nagpur",FALSE,0
 Goli Vada Pav No. 1- Manewada Road,Maharashtrian,4.3,100,Rameshwari,Manewada,Jawahar nagar opp union bank Manewada road nagpur. Shop no.1. Goli vada pav. No.1,TRUE,0
 NAMASTE MEXICO,Mexican,3.8,200,Nandanvan,Nandanvan,"454, ANAND NAGAR, TIRANGA CHOWK TOWARDS SAKARDARA POLICE STATION ROAD NAGPUR 	440009",TRUE,0
 Ruchkar Assal Maharashtrian Vyanjan,Maharashtrian,4.2,250,Bajaj Nagar,bajaj nagar,"218, South Ambazari Road, Near Vijaya Bank, Bajaj Nagar, Nagpur",FALSE,0
-Goli Vada Pav Abhiyankar Nagar,Maharashtrian,4.1,250,Abhiyankar,Bajaj nagar,"SHOP NO 01 ABHINAV SANKUL APARTMENT BESINDE PATAK HOUSE ABHIYANKAR NAGAR ROAD BAJAJ NAGAR NAGPUR , Zone no.1 -Laxminagar, Nagpur urban, Nagpur-1, Maharashtra - 440011",TRUE,0
+Goli Vada Pav Abhiyankar Nagar,Maharashtrian,4.1,250,Bajaj Nagar,Bajaj nagar,"SHOP NO 01 ABHINAV SANKUL APARTMENT BESINDE PATAK HOUSE ABHIYANKAR NAGAR ROAD BAJAJ NAGAR NAGPUR , Zone no.1 -Laxminagar, Nagpur urban, Nagpur-1, Maharashtra - 440011",TRUE,0
 Sandwich Story,Fast Food,3.5,200,Dharampeth,Dharampeth,"C/O. WAMAN U PAPADKAR, 189 RAM NAGAR, PLOE NO. 506 C, NAGPUR, Zone no.2 -Dharampeth, Nagpur urban,Nagpur-1, Maharashtra - 440010",FALSE,0
 Mad Over Pizza,Pizza,2.8,200,Dharampeth,Dharampeth,"C/o Waman U Papadkar, 189 Ram Nagar, Ploe no 506 C, nagpur one no. 2, Dharampeth, nagpur",FALSE,0
 Rajesh Samosa,Fast Food,4.3,100,Wardha Road,Vivekanand Nagar,"Deo Nagar, Near Vivekanand Nagar, Nagpur",TRUE,0
@@ -303,7 +301,7 @@ Flavours,Multi-cuisine,4.1,400,Vivekanand Nagar,Vivekanand Nagar,"Ring Road, Cen
 Anaya Bakery,Bakery,4,200,Teka Naka,Jaripatka,"Plot 17, Teka Naka, Kamatee Road, Jaripatka, Nagpur",FALSE,0
 The Paratha Shopee - Jaripatka,North Indian,4,300,Jaripatka,Jaripatka,plot no 19 indira Gandhi colony jaripatka Nagpur,FALSE,0
 Family Foods,Maharashtrian,3.8,300,Vivekanand Nagar,"W High Court Road, Surendra Nagar","Plot Number 37, Devashish Apartment, W High Court Road, Surendra Nagar, Vivekanand Nagar, Nagpur",TRUE,0
-Ramji Shamji Pohewale,Maharashtrian,4.2,100,Wardha road,Wardha Road,NH44 Sindhi Khamla New Sneh Nagar Nagpur,TRUE,0
+Ramji Shamji Pohewale,Maharashtrian,4.2,100,Wardha Road,Wardha Road,NH44 Sindhi Khamla New Sneh Nagar Nagpur,TRUE,0
 Chinese Only,Chinese,2.9,150,Ayodhya Nagar,MAHALAXMI NAGAR,2nd floar of scorpion gym mahalaxmi nagar no.2.  3rd lane  backside of bakde sabhagrih manewada road nagpur 440027,FALSE,0
 Piyush Maratha Saoji,Maharashtrian,3,200,Wardha Road,Vivekanand Nagar,"Chatrapati Sqaure, Wardha Road, Opposite Sai Mandir, Vivekanand Nagar, Nagpur",FALSE,0
 "Hotel Taj - Teka, Asi Nagar",Biryani,3.9,300,Indora Chowk,Gandhibagh,"Hotel Taj, Aashi Nagar Chowk, Nagpur",FALSE,0
@@ -331,7 +329,7 @@ Jimo,North Indian,4.4,300,Khamla,Wardha Road,"new sneh nagar, wardha road, nagpu
 Divine Kitchen,North Indian,3,300,Narendra Nagar,Narendra nagar,"Plot no 14/ A1,  Laxmi Niwas,  Borkute Layout, Narendra nagar,  nagpur-15",FALSE,0
 Dragon Chinese,Chinese,3,400,Ayodhya Nagar,Ayodhya Nagar,"PLOT NO. 36, MAHALAXMI NAGAR, NAGPUR , Zone no.3 -Neharunagar , Nagpur urban, Nagpur-1, Maharashtra-440024",FALSE,0
 New Phalguni Cake Shop,Bakery,4.1,500,Shashtri Nagar,Wardhaman Nagar,"Usha Apartment, Central Avenue Road, Wardhaman Nagar, Nagpur",TRUE,0
-The Music Cafe,Multi-cuisine,3.4,200,Wardhaman nagar,Padole Nagar,"370/180, Padole Nagar, Wardhaman Nagar, Nandanvan, Nagpur",FALSE,0
+The Music Cafe,Multi-cuisine,3.4,200,Wardhaman Nagar,Padole Nagar,"370/180, Padole Nagar, Wardhaman Nagar, Nandanvan, Nagpur",FALSE,0
 Maharashtrian Roti.com,Maharashtrian,3.8,250,Khamla,"45Old Sneh Nagar ,Wardha Road","45Old Sneh Nagar ,Wardha Road nagpur",TRUE,0
 Happy Foods,Multi-cuisine,3.2,300,Manewada,Ayodhya Nagar,"Manewada Besa Road, Opposite Indian Bank, Near Tata Square, Vaidehi Tower, Nagpur, Maharashtra 440027",FALSE,0
 Cafe Oliver,Multi-cuisine,3.9,200,Ayodhya Nagar,Ayodhya Nagar,"Cafe Oliver, Shutter no.2, Shubh Nagar,  Manewada Road, Nagpur, Nagpur  Muncipal Corporation Zone 03  Hanumannagar, Nagpur, Maharashtra -  440027",FALSE,0
