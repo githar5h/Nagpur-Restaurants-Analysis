@@ -36,7 +36,7 @@ Upon analyzing the dataset, it is evident that certain areas in the city stand o
 
 #### Average Cost and Street Food Hotspots:
 
-Exploring the correlation between area and average cost revealed intriguing insights into the city's culinary landscape. Restaurants in Dighori, Besa, and Shankar Nagar Square emerged as some of the costliest, possibly reflecting a more upscale dining experience. On the flip side, areas like Kharbi, Futala, and Lakadganj showcased more budget-friendly options, suggesting the prevalence of popular street food destinations in these regions.
+Exploring the correlation between area and average cost revealed intriguing insights into the city's culinary landscape. Restaurants in Dighori, Besa, and Shastri Nagar emerged as some of the costliest. On the flip side, areas like Kharbi, Futala, and Lakadganj showcased more budget-friendly options, suggesting the prevalence of popular street food destinations in these regions.
 
 #### Area-wise Ratings and Culinary Excellence:
 
@@ -63,7 +63,7 @@ While a general trend of higher ratings with increased cost is evident, it's imp
 ### Analysis 4: Vegetarian vs. Non-vegetarian Preferences
 
 #### Distribution of Restaurant Types:
-28.1% of restaurants in Nagpur exclusively serve vegetarian cuisine. A significant majority, 71.9%, offer a mix of vegetarian and non-vegetarian options.
+27.8% of restaurants in Nagpur exclusively serve vegetarian cuisine. A significant majority, 72.2%, offer a mix of vegetarian and non-vegetarian options.
 
 #### Ratings Distribution Based on Pure Veg Status:
 Pure vegetarian places exhibit a positive trend, with no ratings below 2.5. Restaurants serving both veg and non-veg have a broader distribution, including lower ratings. However, the highest ratings are comparable for both types of establishments.
